@@ -1,0 +1,1 @@
+print("Las cadenas o string en Python se delimitan con comillas dobles o simples")
